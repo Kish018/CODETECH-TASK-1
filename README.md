@@ -15,7 +15,6 @@
 ### Objective
 
 The objective of this project is to perform Exploratory Data Analysis (EDA) trends, distributions, correlations, and outliers through visualizations. dataset containing Iris data collection of length, width and species of petals and sepals in centimeters.
-Start with a dataset of your choice and perform EDA using libraries like pandas, numpy, and matplotlib or seaborn. Explore the data's characteristics, distributions, correlations, and outliers. Visualize your findings with histograms, scatter plots, and heatmaps to gain insights into the data.
 
 ### Key Activities
 
