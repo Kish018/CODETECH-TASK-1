@@ -1,1 +1,5 @@
-# CODETECH-TASK-1
+Name : Gourapally Kishore
+Company : CODETECHITSOLUTIONS
+ID: : CT06DS1770
+Domain : DATA SCIENCE
+Duration : AUGUST 30th,2024 TO OCTOBER 15th,2024
